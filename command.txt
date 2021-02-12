@@ -1,0 +1,7 @@
+first I created a text file in my folder by using "touch file.txt".
+after creating text file i intilize it by using the command "git init"
+Then, i add it in git by usingn "git add file.txt".
+after that I commit it by using the command "git commit -m 'your text' "
+then i mention the branch by using "git branch -M main"
+after that i used "git remote add origin 'whatever my git http clone is..'"
+and then i pushed it by using "git push -u origin main"
